@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset = "utf-8">
+    <title>Lesson 2 Assignment</title>
+  </head>
+
+  <body>
+    <header>
+      <h1>Mike McQueed</h1>
+      <nav>
+        <a href="index.html">Home</a>
+        </nav>
+    </header>
+
+    <section>
+      <h2 style="color:red;"><strong>My work</strong></h2>
+      <hr/>
+      <article>
+
+        <h3>Project One</h3>
+        <p>My first project is on the WWE.  It is short and rough.
+        </p>
+        <img src="wwe-logo.jpg" alt="wwe logo"
+        style= "width:400px;height:300px"><br>
+        <a href="WWE.html">my-wwe-page</a>
+      </article>
+
+        <h3>Project Two</h3>
+
+        <p>For my second project I wrote a small Harry Potter fanpage.  Here are
+        just a few of the reasons I love Harry Potter.</p>
+
+        <ul>
+          <li>Magic</li>
+          <li>London, England</li>
+          <li>Did I mention, Magic?</li>
+          </ul>
+          <img src="hp-logo.png" alt="harry potter logo">
+          <p></p>
+
+    </section>
+
+    <footer>
+      <p>This page built by me, in 2019.</p>
+      </footer>
+    </body>
+  </html>
